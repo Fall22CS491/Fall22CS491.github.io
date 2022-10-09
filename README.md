@@ -4,8 +4,8 @@
 TODO
 
 ## Reports
-CS491: Project Information form submission: N/A
-CS491: Project Specification document: N/A
+CS491: Project Information form submission: N/A \
+CS491: Project Specification document: N/A\
 CS491: Analysis and Requirements Report: N/A
 
 ## Team Members
