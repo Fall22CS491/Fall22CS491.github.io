@@ -17,8 +17,8 @@ state-of-the-art machine learning technologies for task and motion planning (TAM
 
 ## Reports
 CS491: Project Information form submission: N/A \
-CS491: Project Specification document: N/A\
-CS491: Analysis and Requirements Report: N/A
+CS491: [Project Specification document](./reports/T2325_Project_Specification_Document.pdf) \
+CS491: Analysis and Requirements Report: In Progress
 
 ## Team Members
 * Muhammed Can Küçükaslan
