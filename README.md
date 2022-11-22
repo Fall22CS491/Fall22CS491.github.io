@@ -21,8 +21,8 @@ CS491: [Project Specification document](./reports/T2325_Project_Specification_Do
 CS491: Analysis and Requirements Report: In Progress
 
 ## Team Members
-* Muhammed Can Küçükaslan
-* Mustafa Utku Aydoğdu
-* Muhammet Hikmet Şimşir
-* Mustafa Yasir Altunhan
 * Giray Akyol
+* Mustafa Yasir Altunhan
+* Mustafa Utku Aydoğdu
+* Muhammed Can Küçükaslan
+* Muhammet Hikmet Şimşir
