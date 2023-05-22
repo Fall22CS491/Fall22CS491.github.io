@@ -12,18 +12,18 @@ Introducing LibreBot - the innovative solution to automate the organization of l
 ## Reports
 CS491: Project Information form submission: N/A \
 CS491: [Project Specification document](./reports/T2325_Project_Specification_Document.pdf) \
-CS491: [Analysis and Requirements Report](./reports/T2325_Analysis_Requirements_Report.pdf)  
+CS491: [Analysis and Requirements Report](./reports/T2325_Analysis_Requirements_Report.pdf) 
 
 CS492: [Detailed Design Report](./reports/T2325_Detail_Design_Document.pdf) \
 CS492: [Design Project Final Report](./reports/T2325_FinalReport.pdf)
 
 
 ## Team Members
-* Giray           Akyol
-* Mustafa  Yasir  Altunhan
-* Mustafa  Utku   Aydoğdu
-* Muhammed Can    Küçükaslan
-* Muhammet Hikmet Şimşir
+* [***Giray*** Akyol](https://github.com/GirayAkyol)
+* [***Mustafa*** Yasir Altunhan](https://github.com/MustafaYasirAltunhan)
+* [Mustafa ***Utku*** Aydoğdu](https://github.com/MustafaUtkuAydogdu)
+* [***Muhammed*** Can Küçükaslan](https://github.com/Kucukaslan)
+* [Muhammet ***Hikmet*** Şimşir](https://github.com/HikmetSimsir)
 
 ## Source Code
 See on [GitHub](https://github.com/Fall22CS491/LibreBot)
