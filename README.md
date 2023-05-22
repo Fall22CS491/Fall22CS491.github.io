@@ -1,6 +1,10 @@
 # [Libre](https://en.wikipedia.org/wiki/Libre_software)bot
 Library Robot Model designed as a part of the CS 491/2 Senior Project
 
+## Presentation and Demo
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRrCR3ctsifPbOciubfQTwrdFlYDklNofobFIMzmRN5lfSoPYdxfhstzerVa6nZ1hvC5vWiOjNJyr5V/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 ## Introduction
 Organizing books in a library and keeping them organized is a tedious and
 time-consuming job that humans still perform. The time and effort put into finding a
