@@ -1,12 +1,21 @@
 # [Libre](https://en.wikipedia.org/wiki/Libre_software)bot
 Library Robot Model designed as a part of the CS 491/2 Senior Project
 
-## Presentation and Demo
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRrCR3ctsifPbOciubfQTwrdFlYDklNofobFIMzmRN5lfSoPYdxfhstzerVa6nZ1hvC5vWiOjNJyr5V/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Introduction
 Introducing LibreBot - the innovative solution to automate the organization of library books using state-of-the-art technologies. Our cutting-edge project features a fleet of robots that can navigate through the library, identify books, and place them in their designated locations. With perception and decision-making functionalities, LibreBot ensures efficient and accurate book placement, reducing the time and effort required for book organization while maintaining accuracy and efficiency. Say goodbye to tedious and time-consuming book organization tasks with LibreBot - the future of library automation.
+
+## Poster
+<!-- It should be hidden and opened by clicking -->
+<details>
+  <summary>Click to show/hide poster</summary>
+  <img src="./img/LibreBotPoster.png" alt="LibreBot Poster"/>
+
+</details>
+
+## Presentation and Demo
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRrCR3ctsifPbOciubfQTwrdFlYDklNofobFIMzmRN5lfSoPYdxfhstzerVa6nZ1hvC5vWiOjNJyr5V/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 ## Reports
@@ -19,6 +28,9 @@ CS492: [Design Project Final Report](./reports/T2325_FinalReport.pdf)
 
 
 ## Team Members
+![LibreBot](./img/LibreBot_1020_600.jpg)
+Left to right: Utku, Mustafa, Hikmet, Giray, Muhammed
+
 * [***Giray*** Akyol](https://github.com/GirayAkyol)
 * [***Mustafa*** Yasir Altunhan](https://github.com/MustafaYasirAltunhan)
 * [Mustafa ***Utku*** Aydoğdu](https://github.com/MustafaUtkuAydogdu)
